@@ -1,1 +1,3 @@
 add a new branch
+do something
+do something by master
