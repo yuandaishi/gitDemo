@@ -2,3 +2,5 @@ add a new branch
 do something
 do something by master
 a new conflict by gitDemo
+a new conflict
+
