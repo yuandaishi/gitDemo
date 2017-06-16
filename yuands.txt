@@ -1,1 +1,2 @@
 a new user name
+a new user email
