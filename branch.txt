@@ -4,3 +4,5 @@ do something by master
 a new conflict by gitDemo
 a new conflict
 
+git modefied
+
